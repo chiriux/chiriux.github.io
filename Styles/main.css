@@ -1,0 +1,15 @@
+app-container {
+    min-height: 100vh;
+    background-color: #f3f4f6;
+}
+
+.content-area {
+    padding: 2rem;
+    margin-left: 250px;
+}
+
+.header {
+    padding: 1rem 2rem;
+    background-color: white;
+    border-bottom: 1px solid #e5e7eb;
+}
